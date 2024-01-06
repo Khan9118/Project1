@@ -7,6 +7,7 @@ public class TestDemo {
 		
 		System.out.println("Mabood Wahab");
 	}
+	// this is for the test only
 	public static void add(int a, int b){
 	System.out.println(a + b);
 	}
