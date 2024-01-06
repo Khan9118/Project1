@@ -1,6 +1,8 @@
 package demo;
 
 public class TestDemo {
+	
+	//Name Mabood Wahab
 	public static void main(String[] args) {
 		
 		System.out.println("Mabood Wahab");
@@ -11,7 +13,7 @@ public class TestDemo {
 	
 	public static void subtract(int c, int b) {
 		
-		System.out.println(c - b);
+		System.out.println(c / b);
 	}
 
 }
