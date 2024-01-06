@@ -11,7 +11,8 @@ public class TestDemo {
 	public static void add(int a, int b){
 	System.out.println(a + b);
 	}
-	
+
+	// this is for fun only
 	public static void subtract(int c, int b) {
 		
 		System.out.println(c / b);
